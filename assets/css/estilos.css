@@ -37,3 +37,18 @@ body {
   }
 
 }
+
+.btn-outline-info:hover {
+  background-color: black;
+  border: solid 1px black;
+
+}
+
+.btn-outline-info {
+  border: solid 1px black ;
+}
+
+.btn-info {
+  border: 1px black;
+  background: black;
+}
